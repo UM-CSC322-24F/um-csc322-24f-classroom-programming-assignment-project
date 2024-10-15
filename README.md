@@ -1,0 +1,1 @@
+Programming Project #1 is available [here] (https://www.cs.miami.edu/home/wuchtys/CSC322-24F/Assessment/BoatManagement.html). Deadline is Mo, Oct 28th, 6pm. When you have completed the project, submit the solution files through your Github account. Here is a [primer] (https://www.cs.miami.edu/home/wuchtys/CSC322-24F/github.pptx) of how to submit projects.
